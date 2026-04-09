@@ -19,7 +19,6 @@ I'm a Software Engineering Student at Dr. D.Y. Patil Institute of Technology in 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=parthgithub-byte&show_icons=true&theme=radical" alt="Parth's GitHub Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=parthgithub-byte&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
