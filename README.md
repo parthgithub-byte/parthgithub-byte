@@ -7,10 +7,14 @@ I'm a Software Engineering Student at Dr. D.Y. Patil Institute of Technology in 
 * **Currently Building:** Expanding my portfolio with practical tools like a Finance Tracker and a Digital Footprint Analyzer.
 * **Always open to:** Collaborating on open-source projects, hackathons, and discussing tech!
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** Python, JavaScript, C++, HTML/CSS
-* **Frameworks & Libraries:** LangChain, React, Flask, scikit-learn
-* **Tools:** Git, GitHub, PowerBI, MySQL, MongoDB
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 ### 📈 GitHub Stats
 
