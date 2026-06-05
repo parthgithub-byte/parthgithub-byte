@@ -32,14 +32,14 @@ I'm a Computer Engineering Student at Dr. D.Y. Patil Institute of Technology in 
 * **Hardware & IoT:** ESP32, Sensor Interfacing
 
 ### 💻 Algorithmic Problem Solving
-I maintain an active practice in data structures, algorithms, and competitive programming, with a focus on optimizing efficiency in **C++** and **Java**.
+I maintain an active practice in data structures, algorithms, and competitive programming, with a focus on optimizing efficiency in **C++**.
 * **LeetCode:** [[Profile](https://leetcode.com/u/Thecodenthusiast/)]
 * **GeeksforGeeks:** [[Profile](https://www.geeksforgeeks.org/user/parthpakharjng5/)]
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=parthgithub-byte&layout=compact&theme=radical&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=parthgithub-byte&layout=compact&theme=radical&v=3" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthgithub-byte&theme=radical" alt="GitHub Streak" />
 </div>
