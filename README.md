@@ -39,8 +39,9 @@ I maintain an active practice in data structures, algorithms, and competitive pr
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=parthgithub-byte&layout=donut&theme=radical&langs_count=8" alt="Top Languages" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthgithub-byte&theme=radical&v=0" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthgithub-byte&bg_color=141321&color=fe428e&line=fe428e&point=a9fef7&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ### 📫 Let's Connect
