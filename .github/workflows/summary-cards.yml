@@ -1,0 +1,25 @@
+name: Update summary cards
+
+on:
+  schedule:
+    - cron: "43 2 * * *"   # 08:13 IST daily
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/summary-cards.yml"]
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH: main
+          UTC_OFFSET: 5.5
+          AUTO_PUSH: true
