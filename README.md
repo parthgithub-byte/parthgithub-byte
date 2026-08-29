@@ -1,50 +1,129 @@
-# Hi there, I'm Parth! 👋
+<h1 align="center">Hi, I'm Parth 👋</h1>
 
-I'm a Computer Engineering Student at Dr. D.Y. Patil Institute of Technology in Pune, passionate about building robust applications and exploring the intersection of full-stack development & Artificial Intelligence. I am actively looking for Software Engineering internship and entry-level opportunities!
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<p align="center">
+  <img alt="Intro" src="./profile/typing.svg" />
 </p>
 
-### 🚀 What I'm Up To
-* **Currently Learning:** Advanced AI workflows with LangChain, LangGraph, and RAG architectures, alongside refining my system design skills.
-* **Currently Building:** 
-  * **Digital Footprint Analyzer:** An OSINT tool designed to identify public data exposure risks.
-  * **Finance Tracker:** A full-stack web application for personal finance management.
-* **Always open to:** Collaborating on open-source projects, hackathons, and discussing tech!
+<p align="center">
+  <a href="https://www.linkedin.com/in/parth-p-987933289"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:23510841.dit@dypvp.edu.in"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Thecodenthusiast/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.geeksforgeeks.org/user/parthpakharjng5/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=parthgithub-byte&label=Views&color=0A66C2&style=flat-square" />
+</p>
 
-### 🏆 Featured Projects
-* **Safe Cruisers:** An intelligent, IoT-based vehicle safety system featuring real-time drowsiness and alcohol detection, built utilizing ESP32 and relay modules.
-* **Digital Footprint Analyzer:** A security-focused tool leveraging SearxNG, FastAPI, and NetworkX for personal data exposure analysis.
+I'm a Computer Engineering student at **Dr. D. Y. Patil Institute of Technology, Pune**, interested in building robust applications and in the space where full-stack development meets AI. I'm actively looking for **software engineering internships and entry-level roles**.
 
-### 🛠️ Technical Competencies
-* **AI & LLMs:** LangChain, LangGraph, RAG Architectures
-* **Languages:** C++, Java, Python, JavaScript
-* **Full-Stack Web:** React, Flask, SQL (Oracle, MySQL, SQLite)
-* **Hardware & IoT:** ESP32, Sensor Interfacing
+---
 
-### 💻 Algorithmic Problem Solving
-I maintain an active practice in data structures, algorithms, and competitive programming, with a focus on optimizing efficiency in **C++**.
-* **LeetCode:** [[Profile](https://leetcode.com/u/Thecodenthusiast/)]
-* **GeeksforGeeks:** [[Profile](https://www.geeksforgeeks.org/user/parthpakharjng5/)]
+## 🔭 What I'm Building
 
-### 📈 GitHub Stats
+### 🔍 Digital Footprint Analyzer
+
+An OSINT tool that maps how much of a person is publicly visible online.
+
+It runs queries through a self-hosted **SearxNG** metasearch instance rather than a commercial search API, which keeps it unmetered and avoids leaking the subject's identifiers to a third party. Results feed a **NetworkX** graph linking usernames, emails and domains, so indirect exposure paths — the account that isn't obviously yours until it's connected through two hops — become visible. A **FastAPI** layer serves the analysis with per-artefact risk scoring.
+
+`Python` · `FastAPI` · `SearxNG` · `NetworkX`
+
+### 🚗 Safe Cruisers
+
+An IoT vehicle safety system that intervenes rather than just warns.
+
+Built on an **ESP32**, it combines eye-state monitoring for drowsiness with MQ-3 alcohol sensing on the driver side, and drives a **relay-based ignition interlock** when either crosses threshold. All detection logic runs on-device, so it stays functional with no network connection — a deliberate constraint, since a safety system that depends on connectivity isn't one.
+
+`ESP32` · `C++` · `Sensor Interfacing` · `Relay Control`
+
+### 💰 Finance Tracker
+
+A full-stack personal finance app with category-wise expense breakdowns, monthly budget targets and spending visualisations, built on a **React** frontend over a **Flask** REST API and a normalised **MySQL** schema.
+
+`React` · `Flask` · `Python` · `MySQL`
+
+---
+
+## 🧰 Toolkit
+
+<table>
+<tr>
+  <td><b>Languages</b></td>
+  <td><img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" /></td>
+</tr>
+<tr>
+  <td><b>Web</b></td>
+  <td><img src="https://skillicons.dev/icons?i=react,flask,fastapi,html,css" /></td>
+</tr>
+<tr>
+  <td><b>Data</b></td>
+  <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" /></td>
+</tr>
+<tr>
+  <td><b>Tooling</b></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode" /></td>
+</tr>
+<tr>
+  <td><b>AI / LLM</b></td>
+  <td>LangChain · LangGraph · RAG architectures</td>
+</tr>
+<tr>
+  <td><b>Embedded</b></td>
+  <td>ESP32 · Sensor interfacing · Relay modules</td>
+</tr>
+<tr>
+  <td><b>Foundations</b></td>
+  <td>DSA · OOP · DBMS · Operating Systems · Computer Networks</td>
+</tr>
+</table>
+
+---
+
+## 📚 Currently Learning
+
+Agentic AI workflows with **LangChain** and **LangGraph**, retrieval-augmented generation, and system design for applications that need to scale past a single box.
+
+---
+
+## 🧮 Problem Solving
+
+I keep a steady practice in data structures and algorithms, working primarily in **C++** with a focus on optimising for time and space rather than just passing tests.
+
+<details>
+<summary><b>📊 Stats &amp; activity</b></summary>
+
+<br/>
+
 <div align="center">
-  <img src="./profile/languages.svg" alt="Top Languages" />
-  <br><br>
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-  <br><br>
-  <img src="./profile/activity.svg" alt="Activity Graph" />
+  <img height="160em" src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+  <br/>
+  <img height="160em" src="./profile-summary-card-output/radical/3-stats.svg" alt="Stats" />
+  <img height="160em" src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
+  <br/>
+  <img height="160em" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img height="160em" src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
 </div>
 
-### 📫 Let's Connect
-* **LinkedIn:** [Parth Pakhare](https://www.linkedin.com/in/parth-p-987933289)
-* **Email:** 23510841.dit@dypvp.edu.in
+<div align="center">
+  <img height="169em" src="./profile/streak.svg" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="./profile/languages.svg" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="./profile/leetcode.svg" alt="LeetCode Stats" />
+</div>
+
+<div align="center">
+  <img src="./profile/snake.svg" alt="Contribution Snake" />
+</div>
+
+</details>
+
+---
+
+## 📬 Reach Me
+
+**LinkedIn** [parth-p](https://www.linkedin.com/in/parth-p-987933289) &nbsp;·&nbsp; **Email** [23510841.dit@dypvp.edu.in](mailto:23510841.dit@dypvp.edu.in) &nbsp;·&nbsp; **LeetCode** [Thecodenthusiast](https://leetcode.com/u/Thecodenthusiast/) &nbsp;·&nbsp; **GeeksforGeeks** [parthpakharjng5](https://www.geeksforgeeks.org/user/parthpakharjng5/)
+
+Open to collaborating on open-source, hackathons, and anything at the intersection of AI and systems.
